@@ -1,2 +1,2 @@
 # OpenCV
-Face detection with OpenCV using Haar Cascades
+Having Fun with Face detection with OpenCV using Haar Cascades!
